@@ -1,0 +1,12 @@
+insights-from-credit-card-report:
+
+How to count unique customers using DISTINCTCOUNT in DAX
+How to calculate total spending per customer using SUM
+Create interactive reports using slicers and filters
+Visualize data by category, card type, city, and quarter
+Use KPI cards to display total, average, and failed transactions
+Build customer-level and bank-level summary tables
+Analyze trends by quarter and city using maps and bar charts
+Apply DAX for key metrics like total amount and success transactions
+Combine multiple visual types (bar, map, table,) for insights
+Create drill-through reports for detailed customer data
